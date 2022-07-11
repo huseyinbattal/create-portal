@@ -1,0 +1,53 @@
+.close-btn{
+    cursor: pointer;
+    border: none;
+    border-radius: 50%;
+    background-color: rgb(180, 66, 66);
+    color: white;
+    height: 30px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 14px;
+    width: 30px;
+
+
+}
+
+.close-btn:hover{
+    background-color: rgb(74, 24, 5);
+    cursor:pointer;
+}
+
+.btn-vote{
+    background-color: green;
+    color:white;
+    border:none;
+    padding: 5px;
+    margin: 5px;
+    width: 50px;
+    border-radius: 10px;
+}
+
+.btn-vote:hover{
+    background-color:rgb(59, 158, 59) ;
+    cursor: copy;
+}
+
+.open-btn{
+    background-color: rgb(139, 92, 183);
+    color: white;
+    border:none;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: x-large;
+    width: 200px;
+    cursor: pointer;
+}
+
+.open-btn:hover{
+    background-color: blueviolet;
+    box-shadow: 4px 4px wheat;
+}
