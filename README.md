@@ -5,7 +5,9 @@ Live Demo: https://create-portal-huseyin-battal.netlify.app/
 How does it work?
 
 1-Clone the project
+
 2-npm install
+
 3-npm start
 
 
